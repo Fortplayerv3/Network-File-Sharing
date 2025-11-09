@@ -1,0 +1,2 @@
+- [ ] Add support for multiple user accounts in server.cpp
+- [ ] Modify authentication to check against a user map
